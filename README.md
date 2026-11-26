@@ -10,7 +10,7 @@ Flatmate is a phone app for iPhone and Android that keeps a shared house or flat
 - **Notices & suggestions**: notices with photos, polls, dates and emoji reactions, plus a suggestions box everyone can upvote.
 - **Everything else**: a shared shopping list, house calendar, bin days, Wi-Fi and contacts, house rules, guests and move-in checks.
 
-Only people in your house can see what you share. No ads, no tracking.
+Only people in your house can see what you share. Flatmate is free; **Flatmate Plus** removes ads and limits for the whole house.
 
 ## Legal
 
